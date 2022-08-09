@@ -1,0 +1,63 @@
+body{
+    background-image: url("https://wallpaperaccess.com/full/3265126.jpg");
+}
+
+.container{
+    margin-top: 150px;
+    margin-left: 200px;
+    border-style: solid;
+    border-color: black;
+    height: 400px;
+    width: 30%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+}
+.name{
+    font-size: 40px;
+    margin-top: 20px;
+    margin-left: 20px;
+    width: fit-content;
+    height: fit-content;
+ 
+}
+.temperature{
+    width: fit-content;
+    height: fit-content;
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: 40px;
+  
+}
+
+.wind_speed{
+    font-size: 25px;
+    margin-top: 20px;
+    margin-left: 20px;
+    width: fit-content;
+    height: fit-content;
+}
+
+.feelslike{
+    font-size: 25px;
+    margin-top: 20px;
+    margin-left: 20px;
+    width: fit-content;
+    height: fit-content;
+}
+
+.pressure{
+    font-size: 25px;
+    margin-top: 20px;
+    margin-left: 20px;
+    width: fit-content;
+    height: fit-content;
+}
+
+.weather{
+    font-size: 25px;
+    margin-top: 20px;
+    margin-left: 20px;
+    width: fit-content;
+    height: fit-content;
+}
